@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**krishnakanthnakka/krishnakanthnakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anDoer/anDoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details open>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anDoer&count_private=true&show_icons=true&theme=nord" height="150"/>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anDoer&layout=compact&theme=nord" height="150"/>
+</details>
+
